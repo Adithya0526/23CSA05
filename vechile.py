@@ -1,4 +1,4 @@
-from .. import log
+import log
 from flask import jsonify
 import requests
 
